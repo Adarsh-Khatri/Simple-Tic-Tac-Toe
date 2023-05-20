@@ -1,0 +1,14 @@
+.cell {
+   background-color: #538fbe;
+   border: 1px solid #538fbe;
+   float: left;
+   font-size: 30px;
+   font-weight: bold;
+   padding: 0;
+   text-align: center;
+   width: 60px;
+   height: 60px;
+   color: white;
+   margin: 10px;
+   background-image: rgb(97, 155, 203);
+}
